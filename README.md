@@ -1,4 +1,4 @@
-# Express.js Note Taker Application
+# Express js Note Taker
 > This application allows a user to write and save notes via an html page. The user begins writing a note and once they have any text in the main body of the note, an icon shows up for them to save the note. Upon saving the note, the note displays on the left side of the page. The user can add more notes and is able to view and delete notes at their leisure.
  
 ## Table of contents
@@ -20,8 +20,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 This app is deployed on Heroku and uses NPM Express to operationalize the back-end server for the app.
 
 ## Screenshots
-![Homepage](./public/assets/screenshots/live-link.png)
-![Notes](./public/assets/screenshots/note-examples.png)
+![Homepage](./public/assets/screenshots/front-page.png)
+![Notes](./public/assets/screenshots/sample.png)
 
 ## Technologies
 * HTML
