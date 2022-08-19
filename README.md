@@ -20,8 +20,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 This app is deployed on Heroku and uses NPM Express to operationalize the back-end server for the app.
 
 ## Screenshots
-![Homepage](./public/assets/screenshots/front-page.png)
-![Notes](./public/assets/screenshots/sample.png)
+![Homepage](./public/assets/screenshots/landing.png)
+![Notes](./public/assets/screenshots/sample-img.png)
 
 ## Technologies
 * HTML
@@ -32,4 +32,4 @@ This app is deployed on Heroku and uses NPM Express to operationalize the back-e
 * NPM Generate Unique Id
 
 ## Live link
-[Express.js Note Taker Application](https://stormy-beyond-88272.herokuapp.com/)
+[Express.js Note Taker Application](https://huw-richmond-note-taker.herokuapp.com/)
